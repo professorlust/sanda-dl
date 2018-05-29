@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Roselina","characterIndex":0,"characterName":"Roselina","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Roselina","traits":[{"code":41,"dataId":2,"value":0},{"code":41,"dataId":1,"value":0},{"code":43,"dataId":51,"value":0},{"code":43,"dataId":128,"value":0},{"code":11,"dataId":3,"value":0.6}],"initialLevel":1,"maxLevel":99,"name":"Roselina","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Jake","characterIndex":0,"characterName":"Jake","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jake","traits":[{"code":41,"dataId":1,"value":0},{"code":43,"dataId":80,"value":0}],"initialLevel":1,"maxLevel":99,"name":"Jake","nickname":"","note":"","profile":""}
+]
